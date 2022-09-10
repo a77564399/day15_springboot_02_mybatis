@@ -1,4 +1,4 @@
-package com.tang.day15_springboot_02_mybatis;
+package com.tang;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
